@@ -1,6 +1,7 @@
 body{
     color: #212121
-    font-family: 'Roboto', 'Raleway';
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 /*Navegación a otros sitios*/
